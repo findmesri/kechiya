@@ -1,4 +1,4 @@
-#!/usr/bin/env grrovy
+#!/usr/bin/env groovy
 
 def call(name){
   echo "hello, ${name}."
